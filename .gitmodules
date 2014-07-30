@@ -1,0 +1,3 @@
+[submodule "deps/frank"]
+	path = deps/frank
+	url = git@github.com:manastech/frank.git
